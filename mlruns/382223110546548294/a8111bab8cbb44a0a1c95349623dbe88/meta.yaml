@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/382223110546548294/a8111bab8cbb44a0a1c95349623dbe88/artifacts
+end_time: 1755236883969
+entry_point_name: ''
+experiment_id: '382223110546548294'
+lifecycle_stage: active
+run_id: a8111bab8cbb44a0a1c95349623dbe88
+run_name: unruly-lynx-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755236883684
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5b4fb03dfde345aa87cd0691e59c232d/artifacts
+end_time: 1755235994106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b4fb03dfde345aa87cd0691e59c232d
+run_name: fearless-cub-597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755235993871
+status: 3
+tags: []
+user_id: user

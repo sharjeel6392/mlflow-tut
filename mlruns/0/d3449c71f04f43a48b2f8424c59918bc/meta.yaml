@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d3449c71f04f43a48b2f8424c59918bc/artifacts
+end_time: 1755235852353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3449c71f04f43a48b2f8424c59918bc
+run_name: agreeable-eel-102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755235852158
+status: 4
+tags: []
+user_id: user

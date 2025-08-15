@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/382223110546548294
+creation_time: 1755236883545
+experiment_id: '382223110546548294'
+last_update_time: 1755236883545
+lifecycle_stage: active
+name: wine_classification_experiment

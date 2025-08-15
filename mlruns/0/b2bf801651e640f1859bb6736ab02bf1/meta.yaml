@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b2bf801651e640f1859bb6736ab02bf1/artifacts
+end_time: 1755235773940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2bf801651e640f1859bb6736ab02bf1
+run_name: whimsical-finch-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755235769217
+status: 4
+tags: []
+user_id: user

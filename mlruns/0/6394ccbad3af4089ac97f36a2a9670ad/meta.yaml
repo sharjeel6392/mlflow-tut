@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6394ccbad3af4089ac97f36a2a9670ad/artifacts
+end_time: 1755236660708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6394ccbad3af4089ac97f36a2a9670ad
+run_name: orderly-finch-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755236660472
+status: 4
+tags: []
+user_id: user

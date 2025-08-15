@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bac0822995ad40b98716c70e0a7b4288/artifacts
+end_time: 1755236103277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bac0822995ad40b98716c70e0a7b4288
+run_name: painted-chimp-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755236103233
+status: 3
+tags: []
+user_id: user
